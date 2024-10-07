@@ -112,13 +112,13 @@ class House {
 }
 ;
 console.log("                             house 1");
-const House1 = new House("Badar Ud Din", "Village Jumo Bhutto", "Yello");
+const House1 = new House("Badar Ud Din", "Pano AKil", "Yello");
 console.log(House1);
 console.log("                               house 2");
-const House2 = new House("Ameer Ud Din", "Shaheed Bhutto Muhala", "Grey");
+const House2 = new House("Khan", "Shaheed Bhutto Muhala", "Grey");
 console.log(House2);
 console.log("                                   House 3");
-const House3 = new House("Gulam Hussain", "Shaheed Muhala", "Blue");
+const House3 = new House(" Hussain", "Shaheed Muhala", "Blue");
 console.log(House3);
 // ------------------------------------------------- class 2: Using Constructor ----------------------------
 class School {
@@ -146,7 +146,7 @@ console.log(Mehran);
 let Al_Shahbaz = new School("Al-Shahbaz", "Mehmood Bhutto", 2, 75, 2000, "Pano Akil near Wapda Office");
 console.log(Al_Shahbaz);
 // School 3
-let The_Dawn = new School("The Dawn", "Mumtaz Bhutto", 2, 30, 800, "Pano Akil near Mustafaee Chowk");
+let The_Dawn = new School("The Dawn", "Mumtaz ", 2, 30, 800, "Pano Akil near Mustafaee Chowk");
 console.log(The_Dawn);
 // School 4
 const Shah_latif = new School("Shah Latif", "XYZ", 1, 15, 350, "Pano Akil Kacheri Road");
