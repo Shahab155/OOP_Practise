@@ -171,7 +171,7 @@ class Student {
 let student1 = new Student("Shahab", 22, "Onsite");
 student1.stdStatus();
 // std 2
-let student2 = new Student("Kanwal", 23, "Onsite");
+let student2 = new Student("Ali", 23, "Onsite");
 console.log(student2);
 // std 3
 let student3 = new Student("Muhammad", 35, "Onsite");
